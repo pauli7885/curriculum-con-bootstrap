@@ -1,0 +1,22 @@
+body{
+  background-color: lightgrey;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.imagen1{
+  width: 50%;
+  margin-top: 2%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+nombre{
+  color: orange;
+}
+.p {
+  background: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  width: 550px;
+  height: 100px
+}
